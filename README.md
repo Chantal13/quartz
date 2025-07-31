@@ -9,6 +9,18 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
+## Quick Start
+
+Quartz requires **Node v22+** and **npm v10.9.2+**. After installing these
+dependencies, run the following commands to get Quartz running locally:
+
+```shell
+git clone https://github.com/jackyzha0/quartz.git
+cd quartz
+npm i
+npx quartz create
+```
+
 ## Sponsors
 
   <p align="center">
