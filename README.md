@@ -58,3 +58,11 @@ TOKEN=YOURTOKEN
 
 You can generate a personal token from your account settings on the Quartz website.
 Quartz will load this file automatically when the CLI starts.
+
+## License
+
+Quartz is released under the [MIT License](LICENSE.txt).
+
+## Community
+
+We welcome contributions! Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
