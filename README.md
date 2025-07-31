@@ -19,10 +19,12 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 ## Local Environment
 
-Create a `.env.local` file at the project root and add your API token:
+Some CLI features talk to the hosted Quartz API (e.g. checking for updates or publishing).
+Create a `.env.local` file at the project root and add an API token so these requests are authenticated:
 
 ```bash
 TOKEN=YOURTOKEN
 ```
 
+You can generate a personal token from your account settings on the Quartz website.
 Quartz will load this file automatically when the CLI starts.
