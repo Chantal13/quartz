@@ -11,8 +11,18 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 ## Sponsors
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/sponsors/jackyzha0">
+      <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
+    </a>
+  </p>
+
+## Local Environment
+
+Create a `.env.local` file at the project root and add your API token:
+
+```bash
+TOKEN=YOURTOKEN
+```
+
+Quartz will load this file automatically when the CLI starts.
