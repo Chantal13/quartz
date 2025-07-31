@@ -1,6 +1,7 @@
 import test, { describe } from "node:test"
 import * as path from "./path"
 import assert from "node:assert"
+import { DOMParser } from "linkedom"
 import { FullSlug, TransformOptions, SimpleSlug } from "./path"
 
 describe("typeguards", () => {
@@ -359,5 +360,20 @@ describe("resolveRelative", () => {
     assert.strictEqual(path.resolveRelative("abc/def" as FullSlug, "" as SimpleSlug), "../")
     assert.strictEqual(path.resolveRelative("abc/def" as FullSlug, "ghi" as SimpleSlug), "../ghi")
     assert.strictEqual(path.resolveRelative("abc/def" as FullSlug, "ghi/" as SimpleSlug), "../ghi/")
+  })
+})
+
+describe("normalizeRelativeURLs", () => {
+  test("rebases href and src attributes", () => {
+    const html = `
+      <a id="link" href="./foo/bar#frag">test</a>
+      <img id="img" src="../img.png" />
+      <a id="root" href=""></a>
+    `
+    const document = new DOMParser().parseFromString(html, "text/html")
+    path.normalizeRelativeURLs(document, "https://example.com/base/dir/")
+    assert.strictEqual(document.getElementById("link")!.getAttribute("href"), "/base/dir/foo/bar#frag")
+    assert.strictEqual(document.getElementById("img")!.getAttribute("src"), "/base/img.png")
+    assert.strictEqual(document.getElementById("root")!.getAttribute("href"), "/base/dir/")
   })
 })
