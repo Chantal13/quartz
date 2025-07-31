@@ -146,8 +146,7 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
   }
 
   /**
-   * Get all entries in the trie
-   * in the a flat array including the full path and the node
+   * Get all entries in the trie as a flat array including the full path and the node.
    */
   entries(): [FullSlug, FileTrieNode<T>][] {
     const traverse = (node: FileTrieNode<T>): [FullSlug, FileTrieNode<T>][] => {
