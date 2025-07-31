@@ -9,6 +9,16 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
+## Environment Variables
+
+Quartz reads configuration from an optional `.env.local` file at runtime. Use
+this file to provide API tokens or other secrets that shouldn't be committed to
+version control. A sample file is provided as `.env.local.example`:
+
+```env
+TOKEN=your_token_here
+```
+
 ## Sponsors
 
 <p align="center">

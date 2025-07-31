@@ -1,6 +1,8 @@
 #!/usr/bin/env -S node --no-deprecation
 import yargs from "yargs"
 import { hideBin } from "yargs/helpers"
+import { config as loadEnv } from "dotenv"
+loadEnv({ path: ".env.local" })
 import {
   handleBuild,
   handleCreate,
