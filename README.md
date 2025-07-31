@@ -17,6 +17,24 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
     </a>
   </p>
 
+## Quick Start
+
+```bash
+git clone https://github.com/jackyzha0/quartz.git
+cd quartz
+npm i
+npx quartz create
+```
+
+- **Obsidian compatibility** with wikilinks, transclusions, and backlinks
+- Built-in **full-text search** and **graph view** to explore your notes
+- **Hot reload** on config changes and incremental rebuilds for content
+- Simple JSX layouts and page components
+- **SPA routing** for lightning‑fast navigation
+- Fully extensible through plugins
+
+See the [full feature list](docs/features/) for more details.
+
 ## Local Environment
 
 Create a `.env.local` file at the project root and add your API token:
