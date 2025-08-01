@@ -1,5 +1,6 @@
 ---
 title: IDLE Champions
+draft:
 ---
 # Guides
 
