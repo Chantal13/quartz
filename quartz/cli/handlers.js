@@ -104,7 +104,7 @@ export async function handleCreate(argv) {
     }
   }
 
-  // Use cli process if cmd args werent provided
+  // Use cli process if cmd args weren’t provided
   if (!setupStrategy) {
     setupStrategy = exitIfCancel(
       await select({
@@ -181,7 +181,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
     )
   }
 
-  // Use cli process if cmd args werent provided
+  // Use cli process if cmd args weren’t provided
   if (!linkResolutionStrategy) {
     // get a preferred link resolution strategy
     linkResolutionStrategy = exitIfCancel(
