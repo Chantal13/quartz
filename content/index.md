@@ -1,5 +1,6 @@
 ---
-title: Home
+title: Welcome to My Brain
 ---
 
-Welcome to your new Quartz site. Edit this content to customize your home page.
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
