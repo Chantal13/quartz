@@ -57,6 +57,12 @@ TOKEN=YOURTOKEN
 You can generate a personal token from your account settings on the Quartz website.
 Quartz will load this file automatically when the CLI starts.
 
+## Testing
+
+Run `npm test` to execute the automated test suite. This includes an internal
+link checker that parses all Markdown files under `content/` and fails if any
+`[[link]]` points to a missing slug.
+
 ## License
 
 Quartz is released under the [MIT License](LICENSE.txt).
