@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to My Brain
 ---
 
 This is a blank Quartz installation.
