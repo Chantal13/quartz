@@ -1,4 +1,4 @@
-#!/usr/bin/env -S node --no-deprecation --loader tsx
+#!/usr/bin/env -S node --no-deprecation --import tsx
 import "./util/env.js"
 import yargs from "yargs"
 import { hideBin } from "yargs/helpers"
