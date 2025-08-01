@@ -121,6 +121,16 @@ See the [GitHub documentation](https://docs.github.com/en/pages/configuring-a-cu
 >
 > Make sure you save your changes to Git and sync it to GitHub by doing `npx quartz sync`. This will also make sure to pull any updates you may have made from other devices so you have them locally.
 
+### Troubleshooting GitHub Pages
+
+If your site isn't appearing or updates aren't showing, check the following:
+
+- **Workflow errors**: open the GitHub Actions tab and confirm the deploy workflow completed without errors.
+- **Incorrect `baseUrl`**: `baseUrl` in `quartz.config.ts` should match your Pages URL or custom domain.
+- **Misconfigured Pages source**: under your repository settings → Pages, ensure the source is set to **GitHub Actions**.
+- **Missing `.nojekyll`**: ensure the generated `public` directory includes a `.nojekyll` file so asset folders starting with `_` are served.
+
+
 ## Vercel
 
 ### Fix URLs

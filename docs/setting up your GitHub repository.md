@@ -61,3 +61,4 @@ In future updates, you can simply run `npx quartz sync` every time you want to p
 > - `--commit` or `--no-commit`: whether to make a `git` commit for your changes
 > - `--push` or `--no-push`: whether to push updates to your GitHub fork of Quartz
 > - `--pull` or `--no-pull`: whether to try and pull in any updates from your GitHub fork (i.e. from other devices) before pushing
+For help debugging deployments, see [[hosting#Troubleshooting GitHub Pages|Troubleshooting GitHub Pages]].
