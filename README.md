@@ -21,6 +21,13 @@ npm i
 npx quartz create
 ```
 
+Alternatively, run the provided setup script:
+
+```bash
+./scripts/setup.sh        # macOS/Linux
+./scripts/setup.ps1       # Windows PowerShell
+```
+
 ## Sponsors
 
   <p align="center">
