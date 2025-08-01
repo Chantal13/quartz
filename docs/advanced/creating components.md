@@ -40,7 +40,7 @@ const defaultOptions: Options = {
 }
 
 export default ((userOpts?: Options) => {
-  const opts = { ...userOpts, ...defaultOpts }
+  const opts = { ...userOpts, ...defaultOptions }
   function YourComponent(props: QuartzComponentProps) {
     if (opts.favouriteNumber < 0) {
       return null
