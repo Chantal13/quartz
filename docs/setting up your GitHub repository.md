@@ -30,6 +30,8 @@ Then, you can sync the content to upload it to your repository. This is a helper
 ```bash
 npx quartz sync --no-pull
 ```
+> [!warning]- `remote: Invalid username or token`
+> GitHub removed password authentication. Use `gh auth login` or a Personal Access Token ([link](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)) when pushing changes.
 
 > [!warning]- `fatal: --[no-]autostash option is only valid with --rebase`
 > You may have an outdated version of `git`. Updating `git` should fix this issue.
