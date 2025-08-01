@@ -1,4 +1,6 @@
 ---
-title: Chantal13
+title: Welcome to Quartz
 ---
-This site is where I keep notes, blog posts, and other things I’m working on. You’ll find info about [chess], some [Python] projects, [aviation] topics, and the occasional photo or update. It’s a mix of resources, ideas, and personal projects, all organized with [Obsidian] and [Quartz].
+
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
