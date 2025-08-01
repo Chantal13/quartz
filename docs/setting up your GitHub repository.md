@@ -33,6 +33,12 @@ npx quartz sync --no-pull
 > [!warning]- `remote: Invalid username or token`
 > GitHub removed password authentication. Use `gh auth login` or a Personal Access Token ([link](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)) when pushing changes.
 
+> [!tip] Git Credential Manager
+> Prefer storing credentials with Git Credential Manager (GCM)? Install it with one of the following commands:
+> - **macOS**: `brew install --cask git-credential-manager`
+> - **Windows**: download and run the installer from [GitHub Releases](https://github.com/GitCredentialManager/git-credential-manager/releases)
+> - **Linux**: `curl -L https://aka.ms/gcm/linux-install.sh | bash`
+
 > [!warning]- `fatal: --[no-]autostash option is only valid with --rebase`
 > You may have an outdated version of `git`. Updating `git` should fix this issue.
 
