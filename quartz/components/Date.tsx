@@ -1,3 +1,6 @@
+/**
+ * Helper component for formatting dates according to locale settings.
+ */
 import { GlobalConfiguration } from "../cfg"
 import { ValidLocale } from "../i18n"
 import { QuartzPluginData } from "../plugins/vfile"

@@ -1,3 +1,6 @@
+/**
+ * Interactive folder explorer for browsing notes by path.
+ */
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/explorer.scss"
 

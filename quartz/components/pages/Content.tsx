@@ -1,3 +1,6 @@
+/**
+ * Renders the processed HTML contents of a note.
+ */
 import { ComponentChildren } from "preact"
 import { htmlToJsx } from "../../util/jsx"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"

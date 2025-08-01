@@ -1,3 +1,6 @@
+/**
+ * Higher-order component that only renders its child when a condition holds.
+ */
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 type ConditionalRenderConfig = {

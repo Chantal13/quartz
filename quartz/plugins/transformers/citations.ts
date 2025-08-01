@@ -1,3 +1,6 @@
+/**
+ * Adds support for bibliography references inside Markdown documents.
+ */
 import rehypeCitation from "rehype-citation"
 import { PluggableList } from "unified"
 import { visit } from "unist-util-visit"

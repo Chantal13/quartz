@@ -1,3 +1,6 @@
+/**
+ * Emits files found under the built-in `static` directory without modification.
+ */
 import { FilePath, QUARTZ, joinSegments } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import fs from "fs"

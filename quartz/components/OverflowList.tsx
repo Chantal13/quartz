@@ -1,3 +1,6 @@
+/**
+ * Utility component that truncates overflowing lists with a toggle.
+ */
 import { JSX } from "preact"
 
 const OverflowList = ({

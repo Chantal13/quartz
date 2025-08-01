@@ -1,3 +1,7 @@
+/**
+ * Shared type definitions for Quartz plugins.
+ * Defines the structure of transformers, filters, and emitters.
+ */
 import { PluggableList } from "unified"
 import { StaticResources } from "../util/resources"
 import { ProcessedContent } from "./vfile"

@@ -1,3 +1,6 @@
+/**
+ * Builds pages that list all notes under a specific tag.
+ */
 import { QuartzEmitterPlugin } from "../types"
 import { QuartzComponentProps } from "../../components/types"
 import HeaderConstructor from "../../components/Header"

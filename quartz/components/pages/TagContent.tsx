@@ -1,3 +1,6 @@
+/**
+ * Displays all notes associated with a particular tag.
+ */
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 import style from "../styles/listPage.scss"
 import { PageList, SortFn } from "../PageList"

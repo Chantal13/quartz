@@ -1,3 +1,6 @@
+/**
+ * Visualizes the note graph using D3.
+ */
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 // @ts-ignore
 import script from "./scripts/graph.inline"

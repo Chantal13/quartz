@@ -1,3 +1,6 @@
+/**
+ * Renders a list of pages with optional sorting and date information.
+ */
 import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { Date, getDate } from "./Date"

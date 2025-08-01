@@ -1,3 +1,6 @@
+/**
+ * Index of emitter plugins responsible for writing site files.
+ */
 export { ContentPage } from "./contentPage"
 export { TagPage } from "./tagPage"
 export { FolderPage } from "./folderPage"

@@ -1,3 +1,7 @@
+/**
+ * Helper types for representing plugin input and output.
+ * Markdown files are converted to HTML while preserving VFile metadata.
+ */
 import { Root as HtmlRoot } from "hast"
 import { Root as MdRoot } from "mdast"
 import { Data, VFile } from "vfile"

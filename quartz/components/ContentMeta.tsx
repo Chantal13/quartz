@@ -1,3 +1,6 @@
+/**
+ * Displays article metadata such as publish date and reading time.
+ */
 import { Date, getDate } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
