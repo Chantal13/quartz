@@ -5,6 +5,10 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 
 export default ((component: QuartzComponent) => {
   const Component = component
+/**
+ * Wrapper to show a component only on mobile screens.
+ * Forwards all props to the wrapped component.
+ */
   const MobileOnly: QuartzComponent = (props: QuartzComponentProps) => {
     return <Component displayClass="mobile-only" {...props} />
   }

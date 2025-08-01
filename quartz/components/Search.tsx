@@ -14,6 +14,11 @@ const defaultOptions: SearchOptions = {
 }
 
 export default ((userOpts?: Partial<SearchOptions>) => {
+/**
+ * Search bar component using client-side index.
+ * @param props.displayClass - CSS classes
+ * Uses search.scss and search.inline script
+ */
   const Search: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const opts = { ...defaultOptions, ...userOpts }
     const searchPlaceholder = i18n(cfg.locale).components.search.searchBarPlaceholder

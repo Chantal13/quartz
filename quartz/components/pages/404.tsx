@@ -4,6 +4,10 @@
 import { i18n } from "../../i18n"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 
+/**
+ * 404 page component displayed for unknown routes.
+ * @param props.cfg - Used to build base URL and i18n messages
+ */
 const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
   // If baseUrl contains a pathname after the domain, use this as the home link
   const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)

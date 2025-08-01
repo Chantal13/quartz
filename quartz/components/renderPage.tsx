@@ -186,6 +186,11 @@ function renderTranscludes(
   })
 }
 
+/**
+ * Renders a full HTML page from components and content.
+ * @param components - Layout component set
+ * @param componentData - Data and configuration for the page
+ */
 export function renderPage(
   cfg: GlobalConfiguration,
   slug: FullSlug,

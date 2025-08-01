@@ -5,6 +5,10 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 
 export default ((component: QuartzComponent) => {
   const Component = component
+/**
+ * Higher-order component restricting visibility to desktop widths.
+ * Forwards all props to the wrapped component.
+ */
   const DesktopOnly: QuartzComponent = (props: QuartzComponentProps) => {
     return <Component displayClass="desktop-only" {...props} />
   }

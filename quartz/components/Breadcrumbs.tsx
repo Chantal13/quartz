@@ -46,6 +46,13 @@ function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: Simpl
 }
 
 export default ((opts?: Partial<BreadcrumbOptions>) => {
+/**
+ * Displays the breadcrumb navigation for the current page.
+ * @param props.fileData - Page metadata
+ * @param props.allFiles - All files for building path
+ * @param props.displayClass - CSS class for styling
+ * Uses styles from breadcrumbs.scss
+ */
   const options: BreadcrumbOptions = { ...defaultOptions, ...opts }
   const Breadcrumbs: QuartzComponent = ({
     fileData,

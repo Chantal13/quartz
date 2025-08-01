@@ -62,6 +62,12 @@ export default ((userOpts?: Partial<Options>) => {
   const opts: Options = { ...defaultOptions, ...userOpts }
   const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
 
+/**
+ * Interactive folder explorer navigation.
+ * @param props.cfg - Global config for locale
+ * @param props.displayClass - CSS classes for container
+ * Uses explorer.scss and explorer.inline script
+ */
   const Explorer: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) => {
     return (
       <div

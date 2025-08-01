@@ -3,6 +3,11 @@
  */
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
+/**
+ * Container for site navigation header.
+ * Children are rendered inside a <header> element.
+ * Uses inline CSS defined in this file.
+ */
 const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
   return children.length > 0 ? <header>{children}</header> : null
 }

@@ -2,6 +2,11 @@ import { FullSlug, resolveRelative } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
+/**
+ * Displays a list of tags for the current note.
+ * @param props.fileData - Note containing `frontmatter.tags`
+ * @param props.displayClass - CSS class for the list
+ */
 const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const tags = fileData.frontmatter?.tags
   if (tags && tags.length > 0) {

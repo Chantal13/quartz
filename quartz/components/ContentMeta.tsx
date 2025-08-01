@@ -25,6 +25,12 @@ const defaultOptions: ContentMetaOptions = {
 export default ((opts?: Partial<ContentMetaOptions>) => {
   // Merge options with defaults
   const options: ContentMetaOptions = { ...defaultOptions, ...opts }
+/**
+ * Displays date and reading time metadata for a note.
+ * @param props.fileData - Note metadata
+ * @param props.cfg - Global configuration for locale and date settings
+ * Styles defined in contentMeta.scss
+ */
 
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
     const text = fileData.text

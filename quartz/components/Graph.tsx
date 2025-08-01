@@ -63,6 +63,12 @@ const defaultOptions: GraphOptions = {
 }
 
 export default ((opts?: Partial<GraphOptions>) => {
+/**
+ * Interactive local and global graph view.
+ * @param props.displayClass - CSS class for container
+ * @param props.cfg - Global settings for i18n
+ * Uses graph.scss and graph.inline script
+ */
   const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
