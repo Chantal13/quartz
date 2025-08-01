@@ -1,4 +1,10 @@
-export const CommonArgv = {
+/**
+ * Command line argument configurations for Quartz CLI commands.
+ * Each object maps option names to yargs option definitions.
+ */
+import type { Options } from "yargs"
+
+export const CommonArgv: Record<string, Options> = {
   directory: {
     string: true,
     alias: ["d"],
@@ -13,7 +19,7 @@ export const CommonArgv = {
   },
 }
 
-export const CreateArgv = {
+export const CreateArgv: Record<string, Options> = {
   ...CommonArgv,
   source: {
     string: true,
@@ -34,7 +40,7 @@ export const CreateArgv = {
   },
 }
 
-export const SyncArgv = {
+export const SyncArgv: Record<string, Options> = {
   ...CommonArgv,
   commit: {
     boolean: true,
@@ -58,7 +64,7 @@ export const SyncArgv = {
   },
 }
 
-export const BuildArgv = {
+export const BuildArgv: Record<string, Options> = {
   ...CommonArgv,
   output: {
     string: true,

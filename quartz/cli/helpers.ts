@@ -1,10 +1,14 @@
 import { isCancel, outro } from "@clack/prompts"
 import { styleText } from "util"
-import { contentCacheFolder } from "./constants.js"
+import { contentCacheFolder } from "./constants.ts"
 import { spawnSync } from "child_process"
 import fs from "fs"
 
-export function escapePath(fp) {
+/**
+ * Utility helper functions for CLI operations.
+ */
+
+export function escapePath(fp: string): string {
   return fp
     .replace(/\\ /g, " ") // unescape spaces
     .replace(/^"(.*)"$/, "$1")
@@ -12,7 +16,7 @@ export function escapePath(fp) {
     .trim()
 }
 
-export function exitIfCancel(val) {
+export function exitIfCancel<T>(val: T): T {
   if (isCancel(val)) {
     outro(styleText("red", "Exiting"))
     process.exit(0)
@@ -21,7 +25,7 @@ export function exitIfCancel(val) {
   }
 }
 
-export async function stashContentFolder(contentFolder) {
+export async function stashContentFolder(contentFolder: string): Promise<void> {
   await fs.promises.rm(contentCacheFolder, { force: true, recursive: true })
   await fs.promises.cp(contentFolder, contentCacheFolder, {
     force: true,
@@ -32,7 +36,7 @@ export async function stashContentFolder(contentFolder) {
   await fs.promises.rm(contentFolder, { force: true, recursive: true })
 }
 
-export function gitPull(origin, branch) {
+export function gitPull(origin: string, branch: string): void {
   const flags = ["--no-rebase", "--autostash", "-s", "recursive", "-X", "ours", "--no-edit"]
   const out = spawnSync("git", ["pull", ...flags, origin, branch], { stdio: "inherit" })
   if (out.stderr) {
@@ -42,7 +46,7 @@ export function gitPull(origin, branch) {
   }
 }
 
-export async function popContentFolder(contentFolder) {
+export async function popContentFolder(contentFolder: string): Promise<void> {
   await fs.promises.rm(contentFolder, { force: true, recursive: true })
   await fs.promises.cp(contentCacheFolder, contentFolder, {
     force: true,
