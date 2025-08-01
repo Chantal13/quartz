@@ -29,15 +29,6 @@ npx quartz create
     </a>
   </p>
 
-## Quick Start
-
-```bash
-git clone https://github.com/jackyzha0/quartz.git
-cd quartz
-npm i
-npx quartz create
-```
-
 - **Obsidian compatibility** with wikilinks, transclusions, and backlinks
 - Built-in **full-text search** and **graph view** to explore your notes
 - **Hot reload** on config changes and incremental rebuilds for content
