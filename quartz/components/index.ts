@@ -1,3 +1,6 @@
+/**
+ * Central export for all built-in UI components.
+ */
 import Content from "./pages/Content"
 import TagContent from "./pages/TagContent"
 import FolderContent from "./pages/FolderContent"

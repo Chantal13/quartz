@@ -1,3 +1,6 @@
+/**
+ * Entry point for all Markdown transformer plugins.
+ */
 export { FrontMatter } from "./frontmatter"
 export { GitHubFlavoredMarkdown } from "./gfm"
 export { Citations } from "./citations"

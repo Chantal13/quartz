@@ -1,3 +1,7 @@
+/**
+ * Filter plugin that only publishes content when `publish: true` is set
+ * in the file frontmatter.
+ */
 import { QuartzFilterPlugin } from "../types"
 
 export const ExplicitPublish: QuartzFilterPlugin = () => ({

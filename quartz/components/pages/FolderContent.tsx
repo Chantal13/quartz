@@ -1,3 +1,6 @@
+/**
+ * List page that shows notes grouped by folder path.
+ */
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 
 import style from "../styles/listPage.scss"

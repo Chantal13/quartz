@@ -1,3 +1,9 @@
+/**
+ * Collects external CSS, JS, and head fragments from active plugins.
+ *
+ * Plugins can expose additional resources which are aggregated here so that
+ * pages can include them during rendering.
+ */
 import { StaticResources } from "../util/resources"
 import { FilePath, FullSlug } from "../util/path"
 import { BuildCtx } from "../util/ctx"

@@ -1,3 +1,6 @@
+/**
+ * Standard site footer displaying copyright and links.
+ */
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
 import { version } from "../../package.json"

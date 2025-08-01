@@ -1,3 +1,6 @@
+/**
+ * Toggle button for switching between light and dark themes.
+ */
 // @ts-ignore
 import darkmodeScript from "./scripts/darkmode.inline"
 import styles from "./styles/darkmode.scss"

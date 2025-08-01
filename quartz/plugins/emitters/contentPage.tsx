@@ -1,3 +1,6 @@
+/**
+ * Generates full HTML pages for individual notes using the configured layout.
+ */
 import path from "path"
 import { QuartzEmitterPlugin } from "../types"
 import { QuartzComponentProps } from "../../components/types"

@@ -1,3 +1,6 @@
+/**
+ * Helper that hides a component on desktop devices.
+ */
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 export default ((component: QuartzComponent) => {

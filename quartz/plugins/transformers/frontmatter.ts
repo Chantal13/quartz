@@ -1,3 +1,6 @@
+/**
+ * Parses YAML frontmatter and attaches the result to each VFile.
+ */
 import matter from "gray-matter"
 import remarkFrontmatter from "remark-frontmatter"
 import { QuartzTransformerPlugin } from "../types"

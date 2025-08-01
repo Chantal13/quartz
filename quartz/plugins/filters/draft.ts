@@ -1,3 +1,6 @@
+/**
+ * Filter plugin that excludes notes whose frontmatter sets `draft: true`.
+ */
 import { QuartzFilterPlugin } from "../types"
 
 export const RemoveDrafts: QuartzFilterPlugin<{}> = () => ({

@@ -1,3 +1,6 @@
+/**
+ * Embeds a comment section using the configured third-party provider.
+ */
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 // @ts-ignore

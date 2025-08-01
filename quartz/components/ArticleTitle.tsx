@@ -1,3 +1,6 @@
+/**
+ * Renders the title of a note as an `<h1>` element.
+ */
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 

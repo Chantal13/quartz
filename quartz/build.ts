@@ -1,3 +1,10 @@
+/**
+ * Main build entry point for Quartz.
+ *
+ * Handles Markdown parsing, plugin execution, and file emission.
+ * When run in watch mode it also monitors the content directory and
+ * triggers incremental rebuilds.
+ */
 import sourceMapSupport from "source-map-support"
 sourceMapSupport.install(options)
 import path from "path"

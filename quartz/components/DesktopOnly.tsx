@@ -1,3 +1,6 @@
+/**
+ * Utility wrapper that hides a component on small screens.
+ */
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 export default ((component: QuartzComponent) => {

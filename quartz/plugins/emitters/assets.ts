@@ -1,3 +1,6 @@
+/**
+ * Copies non-Markdown assets from the content directory to the output.
+ */
 import { FilePath, joinSegments, slugifyFilePath } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import path from "path"

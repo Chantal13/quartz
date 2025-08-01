@@ -1,3 +1,6 @@
+/**
+ * Wrapper for the main article body that also injects clipboard behaviour.
+ */
 // @ts-ignore
 import clipboardScript from "./scripts/clipboard.inline"
 import clipboardStyle from "./styles/clipboard.scss"

@@ -1,3 +1,6 @@
+/**
+ * Simple component shown for non-existent pages.
+ */
 import { i18n } from "../../i18n"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 

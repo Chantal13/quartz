@@ -1,3 +1,6 @@
+/**
+ * Wrapper component for the page header section.
+ */
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {

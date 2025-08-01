@@ -1,3 +1,6 @@
+/**
+ * Layout helper that arranges child components using CSS flexbox.
+ */
 import { concatenateResources } from "../util/resources"
 import { classNames } from "../util/lang"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
