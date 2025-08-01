@@ -88,6 +88,7 @@ Then:
 
 1. Head to "Settings" tab of your forked repository and in the sidebar, click "Pages". Under "Source", select "GitHub Actions".
 2. Commit these changes by doing `npx quartz sync`. This should deploy your site to `<github-username>.github.io/<repository-name>`.
+3. To disable Jekyll processing, enable the [[plugins/NoJekyll|NoJekyll]] plugin or manually add an empty `.nojekyll` file to the repository.
 
 > [!hint]
 > If you get an error about not being allowed to deploy to `github-pages` due to environment protection rules, make sure you remove any existing GitHub pages environments.
