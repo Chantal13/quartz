@@ -187,6 +187,10 @@ describe("transforms", () => {
     assert.strictEqual(path.joinSegments("/a/", "b", "/"), "/a/b/")
     assert.strictEqual(path.joinSegments("a/", "b" + "/"), "a/b/")
 
+    // empty segments
+    assert.strictEqual(path.joinSegments("", "/"), "/")
+    assert.strictEqual(path.joinSegments("/", ""), "/")
+
     // works with protocol specifiers
     assert.strictEqual(path.joinSegments("https://example.com", "a"), "https://example.com/a")
     assert.strictEqual(path.joinSegments("https://example.com/", "a"), "https://example.com/a")
