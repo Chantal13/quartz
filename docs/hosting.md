@@ -34,51 +34,48 @@ To add a custom domain, check out [Cloudflare's documentation](https://developer
 
 ## GitHub Pages
 
-In your local Quartz, create a new file `quartz/.github/workflows/deploy.yml`.
+In your local Quartz, create a new file `quartz/.github/workflows/static.yml`.
 
-```yaml title="quartz/.github/workflows/deploy.yml"
-name: Deploy Quartz site to GitHub Pages
+```yaml title="quartz/.github/workflows/static.yml"
+name: Deploy static content to Pages
 
 on:
+  # Runs on pushes targeting the default branch
   push:
-    branches:
-      - v4
+    branches: ["v4"]
 
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  build:
-    runs-on: ubuntu-22.04
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # Fetch all history for git info
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-      - name: Install Dependencies
-        run: npm ci
-      - name: Build Quartz
-        run: npx quartz build
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
-
+  # Single deploy job since we're just deploying
   deploy:
-    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
@@ -88,7 +85,7 @@ Then:
 
 1. Head to "Settings" tab of your forked repository and in the sidebar, click "Pages". Under "Source", select "GitHub Actions".
 2. Commit these changes by doing `npx quartz sync`. This should deploy your site to `<github-username>.github.io/<repository-name>`.
-3. To disable Jekyll processing, enable the [[plugins/NoJekyll|NoJekyll]] plugin or manually add an empty `.nojekyll` file to the repository.
+3. Push your changes and GitHub Actions will automatically deploy using `static.yml`.
 
 > [!hint]
 > If you get an error about not being allowed to deploy to `github-pages` due to environment protection rules, make sure you remove any existing GitHub pages environments.
@@ -129,8 +126,6 @@ If your site isn't appearing or updates aren't showing, check the following:
 - **Workflow errors**: open the GitHub Actions tab and confirm the deploy workflow completed without errors.
 - **Incorrect `baseUrl`**: `baseUrl` in `quartz.config.ts` should match your Pages URL or custom domain.
 - **Misconfigured Pages source**: under your repository settings → Pages, ensure the source is set to **GitHub Actions**.
-- **Missing `.nojekyll`**: ensure the generated `public` directory includes a `.nojekyll` file so asset folders starting with `_` are served.
-
 
 ## Vercel
 
