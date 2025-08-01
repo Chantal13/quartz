@@ -16,6 +16,13 @@ const defaultOptions: BacklinksOptions = {
 export default ((opts?: Partial<BacklinksOptions>) => {
   const options: BacklinksOptions = { ...defaultOptions, ...opts }
   const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
+/**
+ * Lists notes that link back to the current note.
+ * @param props.fileData - Current note metadata
+ * @param props.allFiles - All notes to search for backlinks
+ * @param props.displayClass - Optional CSS classes
+ * Styles: backlinks.scss; uses overflow list script
+ */
 
   const Backlinks: QuartzComponent = ({
     fileData,

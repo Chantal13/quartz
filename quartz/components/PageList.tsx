@@ -57,6 +57,12 @@ type Props = {
   sort?: SortFn
 } & QuartzComponentProps
 
+/**
+ * Renders a list of pages with dates and tags.
+ * @param props.allFiles - Collection of pages to display
+ * @param props.limit - Optional max items
+ * Styles defined inline below
+ */
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
   const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
   let list = allFiles.sort(sorter)

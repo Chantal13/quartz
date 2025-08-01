@@ -20,6 +20,10 @@ const defaultOptions: Options = {
 export default ((opts?: Partial<Options>) => {
   const layout = opts?.layout ?? defaultOptions.layout
   const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
+/**
+ * Renders a collapsible table of contents.
+ * Uses modern or legacy layout depending on options.
+ */
   const TableOfContents: QuartzComponent = ({
     fileData,
     displayClass,

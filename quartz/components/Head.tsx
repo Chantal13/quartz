@@ -5,6 +5,10 @@ import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+/**
+ * Generates the <head> contents for each page.
+ * Pulls metadata and resource links from configuration.
+ */
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,

@@ -5,6 +5,11 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
 
+/**
+ * Button toggling site dark mode.
+ * @param props.displayClass - CSS classes for the button
+ * Includes darkmode.inline script and darkmode.scss
+ */
 const Darkmode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
   return (
     <button class={classNames(displayClass, "darkmode")}>

@@ -13,6 +13,9 @@ const OverflowList = ({
 }
 
 let numExplorers = 0
+/**
+ * Creates an OverflowList component and associated afterDOMLoaded script.
+ */
 export default () => {
   const id = `list-${numExplorers++}`
 

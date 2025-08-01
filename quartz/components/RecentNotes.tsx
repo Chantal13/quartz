@@ -25,6 +25,12 @@ const defaultOptions = (cfg: GlobalConfiguration): Options => ({
   sort: byDateAndAlphabetical(cfg),
 })
 
+/**
+ * Displays a list of recently updated notes.
+ * @param props.allFiles - All notes to filter
+ * @param props.displayClass - CSS classes for container
+ * Styles defined in recentNotes.scss
+ */
 export default ((userOpts?: Partial<Options>) => {
   const RecentNotes: QuartzComponent = ({
     allFiles,

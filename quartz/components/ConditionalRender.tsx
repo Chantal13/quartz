@@ -6,6 +6,10 @@ type ConditionalRenderConfig = {
 }
 
 export default ((config: ConditionalRenderConfig) => {
+/**
+ * Conditionally renders the wrapped component.
+ * Passes through props when `condition` evaluates true.
+ */
   const ConditionalRender: QuartzComponent = (props: QuartzComponentProps) => {
     if (config.condition(props)) {
       return <config.component {...props} />

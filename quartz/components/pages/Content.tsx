@@ -2,6 +2,11 @@ import { ComponentChildren } from "preact"
 import { htmlToJsx } from "../../util/jsx"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 
+/**
+ * Main content renderer for a note.
+ * @param props.fileData - Note metadata
+ * @param props.tree - HTML AST of the page
+ */
 const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
   const content = htmlToJsx(fileData.filePath!, tree) as ComponentChildren
   const classes: string[] = fileData.frontmatter?.cssclasses ?? []

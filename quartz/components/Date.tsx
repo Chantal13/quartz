@@ -25,6 +25,11 @@ export function formatDate(d: Date, locale: ValidLocale = "en-US"): string {
     day: "2-digit",
   })
 }
+/**
+ * Formats and renders a date element.
+ * @param date - JavaScript Date object
+ * @param locale - Optional locale string
+ */
 
 export function Date({ date, locale }: Props) {
   return <time datetime={date.toISOString()}>{formatDate(date, locale)}</time>

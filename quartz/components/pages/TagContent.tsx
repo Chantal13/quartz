@@ -21,6 +21,10 @@ const defaultOptions: TagContentOptions = {
 export default ((opts?: Partial<TagContentOptions>) => {
   const options: TagContentOptions = { ...defaultOptions, ...opts }
 
+/**
+ * Lists all pages associated with a specific tag.
+ * Expects `fileData.slug` to be under the `tags/` prefix.
+ */
   const TagContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
     const slug = fileData.slug

@@ -25,6 +25,12 @@ function boolToStringBool(b: boolean): string {
   return b ? "1" : "0"
 }
 
+/**
+ * Embeds a Giscus comment widget.
+ * @param props.displayClass - Optional CSS classes
+ * @param props.fileData - Current page to check frontmatter
+ * Loads script comments.inline after DOM ready
+ */
 export default ((opts: Options) => {
   const Comments: QuartzComponent = ({ displayClass, fileData, cfg }: QuartzComponentProps) => {
     // check if comments should be displayed according to frontmatter

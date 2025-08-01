@@ -5,6 +5,10 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
 
+/**
+ * Toggle simplified reader view for long articles.
+ * Includes readermode.inline script and styling.
+ */
 const ReaderMode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
   return (
     <button class={classNames(displayClass, "readermode")}>

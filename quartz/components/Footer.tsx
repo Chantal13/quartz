@@ -7,6 +7,12 @@ interface Options {
   links: Record<string, string>
 }
 
+/**
+ * Site footer with optional link list.
+ * @param props.displayClass - CSS classes
+ * @param props.cfg - Global configuration for i18n
+ * Styles defined in footer.scss
+ */
 export default ((opts?: Options) => {
   const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const year = new Date().getFullYear()
