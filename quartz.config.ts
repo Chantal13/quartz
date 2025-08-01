@@ -87,7 +87,6 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
-      Plugin.NoJekyll(),
       Plugin.NotFoundPage(),
       // Commented out CustomOgImages to avoid network fetch during build
       // Plugin.CustomOgImages(),
