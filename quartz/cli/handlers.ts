@@ -3,6 +3,10 @@ import path from "path"
 import esbuild from "esbuild"
 import { styleText } from "util"
 import { sassPlugin } from "esbuild-sass-plugin"
+
+/**
+ * Command handlers for Quartz CLI entrypoints.
+ */
 import fs from "fs"
 import { intro, outro, select, text } from "@clack/prompts"
 import { rm } from "fs/promises"
@@ -14,7 +18,7 @@ import serveHandler from "serve-handler"
 import { WebSocketServer } from "ws"
 import { randomUUID } from "crypto"
 import { Mutex } from "async-mutex"
-import { CreateArgv } from "./args.js"
+import { CreateArgv } from "./args.ts"
 import { globby } from "globby"
 import {
   exitIfCancel,
@@ -22,7 +26,7 @@ import {
   gitPull,
   popContentFolder,
   stashContentFolder,
-} from "./helpers.js"
+} from "./helpers.ts"
 import {
   UPSTREAM_NAME,
   QUARTZ_SOURCE_BRANCH,
@@ -31,13 +35,13 @@ import {
   fp,
   cacheFile,
   cwd,
-} from "./constants.js"
+} from "./constants.ts"
 
 /**
  * Resolve content directory path
  * @param contentPath path to resolve
  */
-function resolveContentPath(contentPath) {
+function resolveContentPath(contentPath: string): string {
   if (path.isAbsolute(contentPath)) return path.relative(cwd, contentPath)
   return path.join(cwd, contentPath)
 }
@@ -46,7 +50,7 @@ function resolveContentPath(contentPath) {
  * Handles `npx quartz create`
  * @param {*} argv arguments for `create`
  */
-export async function handleCreate(argv) {
+export async function handleCreate(argv: any): Promise<void> {
   console.log()
   intro(styleText(["bgGreen", "black"], ` Quartz v${version} `))
   const contentFolder = resolveContentPath(argv.directory)
@@ -232,7 +236,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
  * Handles `npx quartz build`
  * @param {*} argv arguments for `build`
  */
-export async function handleBuild(argv) {
+export async function handleBuild(argv: any): Promise<void> {
   if (argv.serve) {
     argv.watch = true
   }
@@ -470,7 +474,7 @@ export async function handleBuild(argv) {
   if (argv.watch) {
     const paths = await globby([
       "**/*.ts",
-      "quartz/cli/*.js",
+      "quartz/cli/*.ts",
       "quartz/static/**/*",
       "**/*.tsx",
       "**/*.scss",
@@ -490,7 +494,7 @@ export async function handleBuild(argv) {
  * Handles `npx quartz update`
  * @param {*} argv arguments for `update`
  */
-export async function handleUpdate(argv) {
+export async function handleUpdate(argv: any): Promise<void> {
   const contentFolder = resolveContentPath(argv.directory)
   console.log(`\n${styleText(["bgGreen", "black"], ` Quartz v${version} `)} \n`)
   console.log("Backing up your content")
@@ -542,7 +546,7 @@ export async function handleUpdate(argv) {
  * Handles `npx quartz restore`
  * @param {*} argv arguments for `restore`
  */
-export async function handleRestore(argv) {
+export async function handleRestore(argv: any): Promise<void> {
   const contentFolder = resolveContentPath(argv.directory)
   await popContentFolder(contentFolder)
 }
@@ -551,7 +555,7 @@ export async function handleRestore(argv) {
  * Handles `npx quartz sync`
  * @param {*} argv arguments for `sync`
  */
-export async function handleSync(argv) {
+export async function handleSync(argv: any): Promise<void> {
   const contentFolder = resolveContentPath(argv.directory)
   console.log(`\n${styleText(["bgGreen", "black"], ` Quartz v${version} `)}\n`)
   console.log("Backing up your content")
