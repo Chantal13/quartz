@@ -1,6 +1,6 @@
 ---
 title: Python 101
-draft: false
+draft: "false"
 ---
 # Python 101
 
@@ -13,5 +13,4 @@ draft: false
 [Learn Python 3 \| Codecademy](https://www.codecademy.com/enrolled/courses/learn-python-3)
 
 # IDEs
-
-[Title Unavailable \| Site Unreachable](https://anaconda.com/app/)
+[Anaconda](https://anaconda.com/app/)
