@@ -1,4 +1,8 @@
 ---
-title: Welcome to My Brain
+title: Spectrum Syntax
 ---
-This site is where I keep notes, [[blog]] posts, and other things I’m working on. You’ll find info about [[Chess]], some [[Python]] projects, [[aviation]] topics, and the occasional photo or update. It’s a mix of resources, ideas, and personal projects, all organized with [[Obsidian]] and [[Quartz]].
+Welcome to my brain!
+
+I’m Chantal, based in Toronto, Canada. These days, I’ve been unwinding with a bit of [[Python]] programming—there’s something satisfying about tinkering with code after a busy day. I also pick up my guitar now and then, just for the joy of making music.
+
+Here, you’ll find my reflections on neurodiversity, tech adventures, and the little things that make up everyday life. Take a look around, and I hope you find something that resonates with you. Thanks for stopping by.
