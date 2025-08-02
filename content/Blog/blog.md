@@ -1,5 +1,5 @@
 ---
 title: This is another web page.
-draft: true
+draft: "true"
 ---
 Hiii.
