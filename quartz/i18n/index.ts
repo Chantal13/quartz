@@ -31,6 +31,7 @@ import id from "./locales/id-ID"
 export const TRANSLATIONS = {
   "en-US": enUs,
   "en-GB": enGb,
+  "en-CA": enUs,
   "fr-FR": fr,
   "it-IT": it,
   "ja-JP": ja,
