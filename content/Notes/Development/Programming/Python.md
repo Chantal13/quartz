@@ -1,6 +1,5 @@
 ---
 title: Python 101
-draft: "false"
 ---
 # Python 101
 
