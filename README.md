@@ -48,14 +48,8 @@ See the [full feature list](docs/features/) for more details.
 ## Local Environment
 
 Some CLI features talk to the hosted Quartz API (e.g. checking for updates or publishing).
-Create a `.env.local` file at the project root and add an API token so these requests are authenticated:
-
-```bash
-TOKEN=YOURTOKEN
-```
-
-You can generate a personal token from your account settings on the Quartz website.
-Quartz will load this file automatically when the CLI starts.
+Authentication is handled through [Git Credential Manager (GCM)](https://github.com/git-ecosystem/git-credential-manager).
+Make sure GCM is installed and configured with access to your Quartz account before using these commands.
 
 ## Testing
 
