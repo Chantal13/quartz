@@ -19,3 +19,7 @@ I like the way the lessons are bite-sized like [Duolingo](https://www.duolingo.c
 
 # IDEs
 [Anaconda](https://anaconda.com/app/)
+[Download Anaconda Distribution \| Anaconda](https://www.anaconda.com/download)
+# Game Dev
+[pygame](https://www.pygame.org/news)
+
