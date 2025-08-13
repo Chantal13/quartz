@@ -6,12 +6,12 @@ draft: false
 
 ## Core Strategy Flow
 
-1. **Economy First** — Build **coin generators** early; the more coins you produce, the faster you can upgrade.
-2. **Upgrade the Bed** — Do this early to boost coin production.
-3. **Defensive Weapons** — Place **3 weapons** near the bed and upgrade them to **Level 4** quickly.
-4. **Add a Fourth Weapon** — Gives extra firepower when waves get harder.
-5. **Upgrade Weapons Further** — Push main weapons to **Level 7** (or as high as you can).
-6. **Door Upgrade Timing** — Only upgrade the door **when zombies are attacking it**, ideally from **Level 5 → Level 6**.
+1. **Economy First** — Build [[Coin Generator|💰 coin generators]] early; the more coins you produce, the faster you can upgrade.
+2. **Upgrade the [[Bed|🛏 bed]]** — Do this early to boost coin production.
+3. **Defensive [[Weapon|🔫 weapons]]** — Place **3 [[weapon|weapons]]** near the [[bed]] and upgrade them to **Level 4** quickly.
+4. **Add a Fourth [[Weapon]]** — Gives extra firepower when waves get harder.
+5. **Upgrade [[weapon|Weapons]] Further** — Push main [[weapon|weapons]] to **Level 7** (or as high as you can).
+6. **[[door|🚪 Door Upgrade Timing]]** — Only upgrade the [[door]] **when [[zombie|zombies]] are attacking it**, ideally from **Level 5 → Level 6**.
 
 ## Placement Diagram
 
@@ -25,20 +25,20 @@ draft: false
 
 
 **Legend:**
-- **Bed**: Upgrade early to maximize coin gain.
+- **[[Bed]]**: Upgrade early to maximize coin gain.
 - **Coin Gen**: Multiple units to strengthen your economy.
-- **W1–W3**: First three weapons; get to Level 4 ASAP.
-- **W4**: Backup weapon for extra coverage.
-- **Door**: Upgrade reactively during attack.
+- **W1–W3**: First three [[weapon|weapons]]; get to Level 4 ASAP.
+- **W4**: Backup [[weapon]] for extra coverage.
+- **[[door|Door]]**: Upgrade reactively during attack.
 
 ## Upgrade Timing Table
 
-| Phase        | Action                                                   |
-|--------------|----------------------------------------------------------|
-| Early Game   | Build coin generators and upgrade the bed                 |
-| Mid Game     | Place weapons 1–3 and upgrade to Level 4                  |
-| Mid–Late Game| Add weapon 4 and push weapons to Level 7 (or your cap)    |
-| Reactive     | Upgrade the door only when zombies are actively attacking |
+| Phase         | Action                                                            |
+| ------------- | ----------------------------------------------------------------- |
+| Early Game    | Build [[coin generator\|coin generators]] and upgrade the [[bed]] |
+| Mid Game      | Place [[weapon\|weapons]] 1–3 and upgrade to Level 4              |
+| Mid–Late Game | Add [[weapon]] 4 and push [[weapons]] to level cap                |
+| Reactive      | Upgrade the [[door]] only when [[zombie|zombies]] are actively attacking     |
 
 ## Level-Specific Adjustments
 
@@ -46,13 +46,13 @@ draft: false
 |-------|----------|
 | **13** | Follow Stage 13 walkthrough videos for exact placement & timing. |
 | **23** | Conserve resources; build only what’s essential to reach your wave goal. |
-| **28** | Adjust placement/timing if zombies don’t behave as expected; persistence is key. |
+| **28** | Adjust placement/timing if [[zombie|zombies]] don’t behave as expected; persistence is key. |
 
 ## General Tips
 
 - Focus on **economy → defense → reactive reinforcement**.
 - Avoid overspending; only upgrade what’s necessary for the stage.
-- Watch zombie movement and adjust your layout or upgrade timing.
+- Watch [[zombie]] movement and adjust your layout or upgrade timing.
 
 ## Sources
 
