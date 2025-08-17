@@ -4,11 +4,13 @@ aliases:
   - rockhounding
 ---
 
-# Rockhounding
+# Rockhounding Resources
 [[Rockhounding 101]]
 
 [[Conglomerate vs Breccia]]
-### Categories
+
+[[Mohs Hardness Scale]]
+## Categories
 [[Igneous]]
 
 [[Metamorphic]]
@@ -21,9 +23,6 @@ aliases:
 [[Feldspar]]
 
 [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]]
-
-## Rock Tumbling
-[[Rock Tumbling]]
 
 ## Rocks
 [[Agate]]
@@ -39,3 +38,6 @@ aliases:
 [[Jasper]]
 
 [[Unakite]]
+
+## Rock Tumbling
+[[Rock Tumbling]]

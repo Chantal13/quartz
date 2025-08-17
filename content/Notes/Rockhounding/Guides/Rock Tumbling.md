@@ -7,44 +7,88 @@ tags:
 aliases:
   - tumbling
 ---
+# Rock Tumbling on the North Shores of Lake Ontario
 
-## 🌊 Collectible Stones for Tumbling
+## Introduction
+The north shores of **[Lake Ontario](https://www.wikiwand.com/en/articles/Lake_Ontario)** — stretching from Toronto through Durham Region — are an excellent place for casual rockhounding and rock tumbling. Glaciers carried stones from the Canadian Shield southward during the last Ice Age, leaving a rich mix of **igneous, sedimentary, and metamorphic rocks** on today’s beaches.  
 
-### **[[Agate]]**
+Many of these stones are durable enough for **rock tumbling**, polishing up into beautiful specimens for display, jewellery, or collections.  
 
-- **Description:** Banded chalcedony (microcrystalline [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]]), translucent with curved banding in red, orange, grey, or white.
-    
-- **Why tumble it:** Hard (Mohs 7), polishes to a brilliant shine, revealing striking banding.
+---
+## Rocks & Minerals to Collect
 
-### **[[Jasper]]**
+Here are the most common stones suitable for tumbling in the Lake Ontario region. Each links to a standalone page with more detail.
 
-- **Description:** Opaque [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]] with earthy reds, browns, yellows, and greens; sometimes brecciated.
-    
-- **Why tumble it:** Takes a glossy polish; colours and patterns intensify.
+### Igneous Rocks
+- [[Granite]] → Speckled rock of quartz, feldspar, and mica. Polishes well in smaller-grained pieces.  
+- [[Basalt]] → Dark, fine-grained volcanic rock. Often dull after tumbling but smooth.  
+- [[Feldspar]] → Found within granite and unakite. Pink, white, or green crystals can take a satin polish.  
+- [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]] → Grey, white, or translucent. A classic tumbling stone with excellent shine.  
 
-### **[[Unakite]]**
+### Metamorphic Rocks
+- [[Gneiss]] → Banded cousin of granite. Tumbling can highlight its wavy layers.  
+- [[Unakite]] → A mix of green epidote, pink feldspar, and quartz. One of the most striking Lake Ontario tumbling stones.  
+- [[Epidote]] → Green mineral usually seen within unakite. Satin polish with rich colour.  
+- [[Marble]] → Crystalline metamorphosed limestone. Softer (Mohs 3), so requires special care.  
 
-- **Description:** A green-and-pink [[Metamorphic]] rock made of [[Feldspar]], [[Epidote]], and [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]].
-    
-- **Why tumble it:** Creates a unique, mottled pattern when polished.
+### Sedimentary Rocks
+- [[Conglomerate]] → Pebble-rich stone with quartz and other clasts. Polishes into unique patterned stones.  
+- [[Breccia]] → Similar to conglomerate but with sharp, angular fragments.  
+- [[Sandstone]] → Often too soft for tumbling, but quartz-rich varieties can smooth nicely.  
+- [[Petrified Wood]] (rare) → Ancient fossilized wood replaced with silica. Can polish beautifully if found.  
 
-### **[[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]] (Milky, Smoky, Chalcedony)**
+### Microcrystalline Quartz Varieties
+- [[Agate]] → Banded, translucent quartz. Rare but possible along Lake Ontario. Excellent polish.  
+- [[Jasper]] → Opaque red, brown, or yellow quartz. Durable and great for tumbling.  
+- [[Chert / Flint]] → Hard, smooth cryptocrystalline quartz, often grey or brown. Takes a glossy finish.  
 
-- **Description:** Commonly found as translucent to opaque white, grey, or brown stones.
-    
-- **Why tumble it:** Very durable; glass-like finish after polishing.
+---
+## Why These Rocks Wash Up
+- **Glacial Transport:** During the last Ice Age, glaciers scraped rocks from the Canadian Shield and deposited them across Southern Ontario.  
+- **Wave Action:** Waves continually wash stones ashore, polishing them naturally and replenishing the beaches with new finds.  
+- **Erosion:** Bluffs and river systems carry fresh material down to the shoreline.  
+---
+## Tips for Collecting
 
-### **[[Conglomerate]] (Puddingstone)**
+> [!tip] Best Times  
+> Collect after storms or in early spring when ice has shifted beach material.  
 
-- **Description:** Pebble-rich [[Sedimentary]] rock with embedded [[Jasper]] or [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]] clasts.
-    
-- **Why tumble it:** Produces a colourful, speckled stone; each piece is one-of-a-kind.
+> [!info] Where to Look  
+> - Toronto: Scarborough Bluffs, Cherry Beach, Rouge River mouth  
+> - Durham Region: Pickering shoreline, Lynde Shores, Darlington Provincial Park, Oshawa waterfront  
 
-### **Garnet-Bearing [[Gneiss]]**
+> [!warning] Respect Nature  
+> Avoid collecting in protected areas, and only take a small number of stones. Leave unique or ecologically important features untouched.  
 
-- **Description:** Banded [[Metamorphic]] rock containing small garnet crystals.
-    
-- **Why tumble it:** Garnets stand out as red flecks once polished.
+---
 
-> [!WARNING]
-> **Not recommended for tumbling:** Limestone, shale, and sandstone — these are too soft, porous, or crumbly to withstand tumbling.
+## Equipment for Rock Tumbling
+- **Basic Tools:** Bucket, sieve, gloves, and sturdy shoes for shoreline hunting.  
+- **Tumbler Setup:** Rotary or vibratory tumbler, grit stages (coarse, medium, fine, polish).  
+- **Additional Supplies:** Plastic pellets for cushioning softer stones, dedicated polish for quartz-based rocks.  
+
+> [!tip] Rock Size  
+> Collect stones between **1–5 cm (½ inch to 2 inches)** for best tumbling results. Avoid heavily fractured pieces.  
+
+---
+
+## Tumbling Tips
+1. **Sort by Hardness** → Don’t tumble soft marble with hard quartz. Keep similar hardnesses together.  
+2. **Use Stages Properly** → Each grit stage (coarse, medium, fine, polish) should run for at least a week.  
+3. **Check Frequently** → Remove cracked or undercut stones before advancing stages.  
+4. **Finish Strong** → Quartz, jasper, and agate will take a glass-like polish. Feldspar-rich rocks (like granite) may have a softer sheen.  
+
+---
+
+## Final Thoughts
+The shores of [Lake Ontario](https://www.wikiwand.com/en/articles/Lake_Ontario) are a natural rock tumbler, but with patience and the right equipment, you can take home polished stones that highlight the region’s rich geological history. Each piece you collect carries a story — from billion-year-old Canadian Shield granite to rare glimpses of jasper and agate.  
+
+Explore the linked pages to learn more about each stone in detail: composition, tumbling qualities, and where to find them locally.  
+
+---
+
+## References
+- [Ontario Geological Survey – Geology of Ontario](https://www.ontario.ca/page/geology-ontario)  
+- [Mindat.org – Ontario Minerals](https://www.mindat.org/loc-2938.html)  
+- [Geology.com – Rock Tumbling Guide](https://geology.com/rock-tumbler/)  
+- [Wikipedia – Glacial Erratics of Ontario](https://en.wikipedia.org/wiki/Glacial_erratic)  
