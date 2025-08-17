@@ -6,10 +6,10 @@ draft: false
 
 ## Core Strategy Flow
 
-1. **Economy First** — Build [[Coin Generator|💰 coin generators]] early; the more coins you produce, the faster you can upgrade.
-2. **Upgrade the [[Bed|🛏 bed]]** — Do this early to boost coin production.
-3. **Defensive [[Weapon|🔫 weapons]]** — Place **3 [[weapon|weapons]]** near the [[bed]] and upgrade them to **Level 4** quickly.
-4. **Add a Fourth [[Weapon]]** — Gives extra firepower when waves get harder.
+1. **Economy First** — Build [[coin generator|💰 coin generators]] early; the more coins you produce, the faster you can upgrade.
+2. **Upgrade the [[bed|🛏 bed]]** — Do this early to boost coin production.
+3. **Defensive [[weapon|🔫 weapons]]** — Place **3 [[weapon|weapons]]** near the [[bed]] and upgrade them to **Level 4** quickly.
+4. **Add a Fourth [[weapon]]** — Gives extra firepower when waves get harder.
 5. **Upgrade [[weapon|Weapons]] Further** — Push main [[weapon|weapons]] to **Level 7** (or as high as you can).
 6. **[[door|🚪 Door Upgrade Timing]]** — Only upgrade the [[door]] **when [[zombie|zombies]] are attacking it**, ideally from **Level 5 → Level 6**.
 
@@ -25,7 +25,7 @@ draft: false
 
 
 **Legend:**
-- **[[Bed]]**: Upgrade early to maximize coin gain.
+- **[[bed]]**: Upgrade early to maximize coin gain.
 - **Coin Gen**: Multiple units to strengthen your economy.
 - **W1–W3**: First three [[weapon|weapons]]; get to Level 4 ASAP.
 - **W4**: Backup [[weapon]] for extra coverage.
