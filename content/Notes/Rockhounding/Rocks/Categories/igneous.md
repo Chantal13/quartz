@@ -5,6 +5,7 @@ tags:
   - rockhounding
 aliases:
   - Igneous Rocks
+  - igneous
 ---
 # Igneous Rocks
 
@@ -20,11 +21,11 @@ Igneous rocks form when molten rock (magma or lava) cools and solidifies. They a
 - May contain visible crystals (granite) or glassy textures (obsidian)  
 
 **Connection to Rockhounding:**  
-- [[agate|Agates]] often form inside cavities (vesicles) of volcanic rocks.  
+- [[Agate|Agates]] often form inside cavities (vesicles) of volcanic rocks.  
 - Granite erratics transported by glaciers can be found along Lake Ontario.  
 
-> [!note] Examples along Lake Ontario include [[agate|agates]] in glacial gravels and granite pebbles.  
+> [!note] Examples along Lake Ontario include [[Agate|agates]] in glacial gravels and granite pebbles.  
 
 > [!tip] Example connection:  
-> Many **[[agate|agates]]** found along Lake Ontario originated in igneous rocks before glaciers carried them south.  
-> Explore [[agate|agates]] here → [[agate|Agate]]
+> Many **[[Agate|agates]]** found along Lake Ontario originated in igneous rocks before glaciers carried them south.  
+> Explore [[Agate|agates]] here → [[Agate|Agate]]

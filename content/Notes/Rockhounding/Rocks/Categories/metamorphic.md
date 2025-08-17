@@ -5,6 +5,7 @@ tags:
   - rockhounding
 aliases:
   - Metamorphic Rocks
+  - metamorphic
 ---
 # Metamorphic Rocks
 
@@ -12,7 +13,7 @@ aliases:
 Metamorphic rocks form when existing rocks are transformed by heat, pressure, or chemical processes without melting.
 
 **Types:**  
-- **Foliated:** Layered or banded (e.g., schist, [[gneiss]]).  
+- **Foliated:** Layered or banded (e.g., schist, [[Gneiss]]).  
 - **Non-foliated:** Uniform texture (e.g., marble, quartzite).  
 
 **Common Features:**  
@@ -22,10 +23,10 @@ Metamorphic rocks form when existing rocks are transformed by heat, pressure, or
 
 **Connection to Rockhounding:**  
 - [[Unakite]] is a metamorphic granite altered by hydrothermal fluids.  
-- Garnet-bearing [[gneiss]] is also found in Lake Ontario pebbles.  
+- Garnet-bearing [[Gneiss]] is also found in Lake Ontario pebbles.  
 
 > [!tip] Metamorphic rocks are among the best candidates for tumbling due to their durability and striking colors.  
 
 > [!tip] Example connection:  
-> **[[Unakite]]** and garnet-bearing [[gneiss]] are common metamorphic stones found on Lake Ontario’s shores.  
-> Explore [[unakite]] here → [[unakite|Unakite]]
+> **[[Unakite]]** and garnet-bearing [[Gneiss]] are common metamorphic stones found on Lake Ontario’s shores.  
+> Explore [[Unakite]] here → [[Unakite|Unakite]]

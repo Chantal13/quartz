@@ -5,12 +5,12 @@ tags:
   - rockhounding
   - tumbling
 aliases:
-  - Gneiss
+  - gneiss
 ---
 # Gneiss
 
 ## Overview
-Gneiss (pronounced “nice”) is a **[[metamorphic]] rock** characterized by its distinctive light-and-dark banding. It forms when pre-existing rocks such as granite, sandstone, or shale are subjected to intense heat and pressure, causing the minerals to re-crystallize and separate into layers.  
+Gneiss (pronounced “nice”) is a **[[Metamorphic]] rock** characterized by its distinctive light-and-dark banding. It forms when pre-existing rocks such as granite, sandstone, or shale are subjected to intense heat and pressure, causing the minerals to re-crystallize and separate into layers.  
 
 On the north shores of Lake Ontario, gneiss is most commonly found as **glacial erratics** — stones carried south from the ancient Canadian Shield by glaciers during the last Ice Age. Today, they can be found as rounded pebbles and cobbles scattered along the beaches.
 
@@ -18,7 +18,7 @@ On the north shores of Lake Ontario, gneiss is most commonly found as **glacial 
 
 ## Appearance & Identification
 - **Texture:** Banded, striped, or layered  
-- **Minerals:** [[Notes/Rockhounding/Rocks/quartz|Quartz]], [[feldspar]], mica, amphibole  
+- **Minerals:** [[Notes/Rockhounding/Rocks/Quartz|Quartz]], [[Feldspar]], mica, amphibole  
 - **Colors:** Grey, white, black, with occasional pink or green tones  
 - **Special Feature:** Some gneisses contain red **garnet crystals**, which stand out as small, rounded inclusions  
 
@@ -49,14 +49,14 @@ On the north shores of Lake Ontario, gneiss is most commonly found as **glacial 
 Gneiss belongs to the **[[Metamorphic]] Rock family**, formed through the transformation of pre-existing rocks under heat and pressure.  
 
 > [!info] Want to learn more?  
-> Read about the broader **[[Metamorphic]] Rock family** here → [[metamorphic|Metamorphic Rocks]]  
+> Read about the broader **[[Metamorphic]] Rock family** here → [[Metamorphic|Metamorphic Rocks]]  
 
 ---
 
 ## Related Stones
-- **[[Unakite]]** → Another [[metamorphic]] rock, often green and pink, found along Lake Ontario.  
-- **[[Notes/Rockhounding/Rocks/quartz|Quartz]]** → A common mineral within gneiss, also found as separate pebbles on the shoreline.  
-- **Granite** → The [[igneous]] parent rock that often transforms into gneiss.  
+- **[[Unakite]]** → Another [[Metamorphic]] rock, often green and pink, found along Lake Ontario.  
+- **[[Notes/Rockhounding/Rocks/Quartz|Quartz]]** → A common mineral within gneiss, also found as separate pebbles on the shoreline.  
+- **Granite** → The [[Igneous]] parent rock that often transforms into gneiss.  
 
 ---
 

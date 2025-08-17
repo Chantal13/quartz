@@ -4,6 +4,9 @@ draft: false
 tags:
   - rockhounding
 aliases:
+  - epidote
+  - epidotes
+  - Epidotes
 ---
 
 > [!Error] 404

@@ -1,9 +1,10 @@
 ---
-title: 
+title: Feldspar
 draft: false
 tags:
   - rockhounding
 aliases:
+  - feldspar
 ---
 
 > [!Error] 404

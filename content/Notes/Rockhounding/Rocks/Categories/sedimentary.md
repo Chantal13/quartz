@@ -5,6 +5,7 @@ tags:
   - rockhounding
 aliases:
   - Sedimentary Rocks
+  - sedimentary
 ---
 # Sedimentary Rocks
 
@@ -19,10 +20,10 @@ Sedimentary rocks form from the accumulation and compaction of sediments such as
 **Common Features:**  
 - Often layered or banded  
 - May contain fossils  
-- Softer than [[igneous]]/[[metamorphic]] rocks  
+- Softer than [[Igneous]]/[[Metamorphic]] rocks  
 
 **Connection to Rockhounding:**  
-- [[Jasper]] is a silica-rich sedimentary form of [[Notes/Rockhounding/Rocks/quartz|quartz]].  
+- [[Jasper]] is a silica-rich sedimentary form of [[Notes/Rockhounding/Rocks/Quartz|Quartz]].  
 - Limestone and shale also occur along Lake Ontario but are too soft for tumbling.  
 
-> [!warning] Soft sedimentary rocks like shale and limestone will not polish well in a tumbler. Stick to harder varieties like [[jasper]].  
+> [!warning] Soft sedimentary rocks like shale and limestone will not polish well in a tumbler. Stick to harder varieties like [[Jasper]].  

@@ -5,17 +5,17 @@ tags:
   - rockhounding
   - tumbling
 aliases:
-  - Unakite
+  - unakite
 ---
 # 💚 Unakite
 
 **Formation:**  
-Unakite is a [[metamorphic]] rock created when granite is altered by hydrothermal fluids, replacing [[feldspar]] with green [[epidote]].  
+Unakite is a [[Metamorphic]] rock created when granite is altered by hydrothermal fluids, replacing [[Feldspar]] with green [[Epidote]].  
 
 **Appearance & Identification:**  
-- Mottled green ([[epidote]]), pink ([[feldspar]]), and clear [[Notes/Rockhounding/Rocks/quartz|quartz]]  
+- Mottled green ([[Epidote]]), pink ([[Feldspar]]), and clear [[Notes/Rockhounding/Rocks/Quartz|Quartz]]  
 - Medium-grained texture  
-- Opaque, with [[Notes/Rockhounding/Rocks/quartz|quartz]] areas sometimes translucent  
+- Opaque, with [[Notes/Rockhounding/Rocks/Quartz|Quartz]] areas sometimes translucent  
 
 > [!tip] Tumbling Qualities  
 > - Hardness: Mohs 6–7  
@@ -25,5 +25,5 @@ Unakite is a [[metamorphic]] rock created when granite is altered by hydrotherma
 **Rock Category:** **[[Metamorphic]]**, altered granite.
 
 > [!info] Curious about unakite’s origins?  
-> This pink-and-green stone is created when granite is transformed under heat and pressure, making it a **[[metamorphic]] rock**.  
-> Learn more here → [[metamorphic|Metamorphic Rocks]]
+> This pink-and-green stone is created when granite is transformed under heat and pressure, making it a **[[Metamorphic]] rock**.  
+> Learn more here → [[Metamorphic|Metamorphic Rocks]]

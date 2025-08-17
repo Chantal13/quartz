@@ -5,12 +5,14 @@ tags:
   - rockhounding
   - tumbling
 aliases:
-  - Quartz
+  - quartz
+  - quartzes
+  - Quartzes
 ---
 ## ❄️ Quartz (Milky, Smoky, Chalcedony)
 
 **Formation:**  
-Quartz (SiO₂) is one of the most common minerals. It forms in **[[igneous]]** (granite), **[[metamorphic]]** ([[gneiss]], schist), and **[[sedimentary]]** (cement, veins) contexts.  
+Quartz (SiO₂) is one of the most common minerals. It forms in **[[Igneous]]** (granite), **[[Metamorphic]]** ([[Gneiss]], schist), and **[[Sedimentary]]** (cement, veins) contexts.  
 
 **Appearance & Identification:**  
 - Milky quartz: opaque white  
@@ -26,7 +28,7 @@ Quartz (SiO₂) is one of the most common minerals. It forms in **[[igneous]]** 
 **Rock Category:** Present in **all three rock types**.
 
 > [!info] Fun fact:  
-> Quartz appears in **all three rock families** — [[igneous]], [[sedimentary]], and [[metamorphic]] — which is why it’s so common.  
-> Learn more here → [[igneous|Igneous Rocks]] | [[sedimentary|Sedimentary Rocks]] | [[metamorphic|Metamorphic Rocks]]
+> Quartz appears in **all three rock families** — [[Igneous]], [[Sedimentary]], and [[Metamorphic]] — which is why it’s so common.  
+> Learn more here → [[Igneous|Igneous Rocks]] | [[Sedimentary|Sedimentary Rocks]] | [[Metamorphic|Metamorphic Rocks]]
 
 
