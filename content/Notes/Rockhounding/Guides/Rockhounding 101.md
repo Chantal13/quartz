@@ -31,10 +31,10 @@ The shores of Lake Ontario, shaped by glaciers and erosion, offer a treasure tro
 > Erosion supplies fresh sandstone, shale, and occasional [[Agate]] or [[Jasper]] pebbles. Great mix of [[Sedimentary]] and glacial erratics.  
 
 > [!tip] **Tommy Thompson Park & Cherry Beach (Toronto)**  
-> Pebble-rich shoreline, diverse [[Metamorphic]] and [[Notes/Rockhounding/Rocks/Quartz|Quartz]] finds.  
+> Pebble-rich shoreline, diverse [[Metamorphic]] and [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]] finds.  
 
 > [!tip] **Ashbridge’s Bay & The Beaches (Toronto)**  
-> Smooth, rounded glacial pebbles — good for [[Notes/Rockhounding/Rocks/Quartz|Quartz]] and [[Jasper]].  
+> Smooth, rounded glacial pebbles — good for [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]] and [[Jasper]].  
 
 > [!tip] **Rouge River & Don Valley Outflows (Toronto)**  
 > Streams deliver a constant supply of mixed glacial rocks.  
@@ -43,10 +43,10 @@ The shores of Lake Ontario, shaped by glaciers and erosion, offer a treasure tro
 > Gravel barrier beach — excellent for tumbling-size stones.  
 
 > [!tip] **Darlington Provincial Park (Bowmanville)**  
-> Glacial moraine shoreline — [[Unakite]], [[Jasper]], and [[Notes/Rockhounding/Rocks/Quartz|Quartz]] show up here.  
+> Glacial moraine shoreline — [[Unakite]], [[Jasper]], and [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]] show up here.  
 
 > [!tip] **Pickering Beach / Paradise Beach & Carruthers Creek Mouth (Ajax)**  
-> Sandy-pebble beaches — small [[Agate|agates]] and [[Notes/Rockhounding/Rocks/Quartz|Quartz]] often appear after storms.  
+> Sandy-pebble beaches — small [[Agate|agates]] and [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]] often appear after storms.  
 
 ---
 ## 🪨 Tips for Collecting
@@ -67,7 +67,7 @@ The shores of Lake Ontario, shaped by glaciers and erosion, offer a treasure tro
     
 - **[[Jasper]]:** Opaque, solid colors—reds and greens are most common.
     
-- **[[Notes/Rockhounding/Rocks/Quartz|Quartz]]:** Glassy appearance, hardness test scratches glass.
+- **[[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]]:** Glassy appearance, hardness test scratches glass.
     
 - **[[Unakite]]:** Green-pink mottling ([[Feldspar]] + [[Epidote]]).
     
@@ -95,7 +95,7 @@ Bring a small **field guide** or use an app like _Rock Identifier_ for on-the-sp
 
 ## ⚙️ Tips for Tumbling Lake Ontario Stones
 
-1. **Sort by hardness** – Tumble [[Notes/Rockhounding/Rocks/Quartz|Quartz]], [[Jasper]], and [[Agate]] together (Mohs 6.5–7). Softer rocks will grind away too quickly.
+1. **Sort by hardness** – Tumble [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]], [[Jasper]], and [[Agate]] together (Mohs 6.5–7). Softer rocks will grind away too quickly.
     
 2. **Start small** – Many Lake Ontario stones are already rounded; use shorter coarse grind cycles.
     

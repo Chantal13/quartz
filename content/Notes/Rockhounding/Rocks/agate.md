@@ -12,7 +12,7 @@ aliases:
 # 🌈 Agate
 
 **Formation:**  
-Agates form in volcanic or [[Sedimentary]] cavities where silica-rich water deposits layers of microcrystalline [[Notes/Rockhounding/Rocks/Quartz|Quartz]]. Glaciers transported many agates to Southern Ontario from far to the north and west.  
+Agates form in volcanic or [[Sedimentary]] cavities where silica-rich water deposits layers of microcrystalline [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]]. Glaciers transported many agates to Southern Ontario from far to the north and west.  
 
 **Appearance & Identification:**  
 - Translucent to semi-opaque  

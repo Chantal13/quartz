@@ -12,23 +12,23 @@ aliases:
 
 ### **[[Agate]]**
 
-- **Description:** Banded chalcedony (microcrystalline [[Notes/Rockhounding/Rocks/Quartz|Quartz]]), translucent with curved banding in red, orange, grey, or white.
+- **Description:** Banded chalcedony (microcrystalline [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]]), translucent with curved banding in red, orange, grey, or white.
     
 - **Why tumble it:** Hard (Mohs 7), polishes to a brilliant shine, revealing striking banding.
 
 ### **[[Jasper]]**
 
-- **Description:** Opaque [[Notes/Rockhounding/Rocks/Quartz|Quartz]] with earthy reds, browns, yellows, and greens; sometimes brecciated.
+- **Description:** Opaque [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]] with earthy reds, browns, yellows, and greens; sometimes brecciated.
     
 - **Why tumble it:** Takes a glossy polish; colours and patterns intensify.
 
 ### **[[Unakite]]**
 
-- **Description:** A green-and-pink [[Metamorphic]] rock made of [[Feldspar]], [[Epidote]], and [[Notes/Rockhounding/Rocks/Quartz|Quartz]].
+- **Description:** A green-and-pink [[Metamorphic]] rock made of [[Feldspar]], [[Epidote]], and [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]].
     
 - **Why tumble it:** Creates a unique, mottled pattern when polished.
 
-### **[[Notes/Rockhounding/Rocks/Quartz|Quartz]] (Milky, Smoky, Chalcedony)**
+### **[[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]] (Milky, Smoky, Chalcedony)**
 
 - **Description:** Commonly found as translucent to opaque white, grey, or brown stones.
     
@@ -36,7 +36,7 @@ aliases:
 
 ### **[[Conglomerate]] (Puddingstone)**
 
-- **Description:** Pebble-rich [[Sedimentary]] rock with embedded [[Jasper]] or [[Notes/Rockhounding/Rocks/Quartz|Quartz]] clasts.
+- **Description:** Pebble-rich [[Sedimentary]] rock with embedded [[Jasper]] or [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]] clasts.
     
 - **Why tumble it:** Produces a colourful, speckled stone; each piece is one-of-a-kind.
 

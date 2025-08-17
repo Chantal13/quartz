@@ -23,7 +23,7 @@ Sedimentary rocks form from the accumulation and compaction of sediments such as
 - Softer than [[Igneous]]/[[Metamorphic]] rocks  
 
 **Connection to Rockhounding:**  
-- [[Jasper]] is a silica-rich sedimentary form of [[Notes/Rockhounding/Rocks/Quartz|Quartz]].  
+- [[Jasper]] is a silica-rich sedimentary form of [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]].  
 - Limestone and shale also occur along Lake Ontario but are too soft for tumbling.  
 
 > [!warning] Soft sedimentary rocks like shale and limestone will not polish well in a tumbler. Stick to harder varieties like [[Jasper]].  

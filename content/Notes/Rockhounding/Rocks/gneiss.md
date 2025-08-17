@@ -18,7 +18,7 @@ On the north shores of Lake Ontario, gneiss is most commonly found as **glacial 
 
 ## Appearance & Identification
 - **Texture:** Banded, striped, or layered  
-- **Minerals:** [[Notes/Rockhounding/Rocks/Quartz|Quartz]], [[Feldspar]], mica, amphibole  
+- **Minerals:** [[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]], [[Feldspar]], mica, amphibole  
 - **Colors:** Grey, white, black, with occasional pink or green tones  
 - **Special Feature:** Some gneisses contain red **garnet crystals**, which stand out as small, rounded inclusions  
 
@@ -55,7 +55,7 @@ Gneiss belongs to the **[[Metamorphic]] Rock family**, formed through the transf
 
 ## Related Stones
 - **[[Unakite]]** → Another [[Metamorphic]] rock, often green and pink, found along Lake Ontario.  
-- **[[Notes/Rockhounding/Rocks/Quartz|Quartz]]** → A common mineral within gneiss, also found as separate pebbles on the shoreline.  
+- **[[Notes/Rockhounding/Rocks/Minerals/Quartz|Quartz]]** → A common mineral within gneiss, also found as separate pebbles on the shoreline.  
 - **Granite** → The [[Igneous]] parent rock that often transforms into gneiss.  
 
 ---
