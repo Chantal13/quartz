@@ -1,5 +1,7 @@
 ---
 title: Rockhounding
+aliases:
+  - rockhounding
 ---
 
 # Rockhounding
