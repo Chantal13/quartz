@@ -15,6 +15,10 @@ Conglomerate is a **sedimentary rock** made of rounded pebbles and cobbles cemen
 
 One of the most famous varieties is **Puddingstone**, a type of conglomerate that contains bright red jasper pebbles within a lighter quartz or sand matrix. Glaciers have scattered puddingstone and other conglomerates across Southern Ontario, and they can sometimes be found along the **north shores of Lake Ontario** as glacial erratics.
 
+> [!info] Confused between Conglomerate and Breccia?  
+> Both are sedimentary rocks with larger clasts, but they look very different in the field.  
+> 👉 See the side-by-side comparison here → [[Conglomerate vs Breccia]]
+
 ---
 
 ## Appearance & Identification
