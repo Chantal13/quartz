@@ -6,67 +6,49 @@ tags:
 aliases:
 ---
 ```mermaid
-graph TD
-    A[Rock & Mineral Map — Lake Ontario North Shore]
+flowchart TD
+  A[Lake Ontario Rocks]
 
-    %% Top-level
-    A --> B[Minerals]
-    A --> C[Rock families]
-    A --> G[Transport: glaciers, rivers, waves]
-    G --> L[Beaches: GTA & Durham]
+  A --> B[Minerals]
+  A --> C[Rock Types]
+  A --> D[Shore Transport]
 
-    %% Minerals
-    B --> Qz[Quartz]
-    Qz --> Ch[Chalcedony]
-    Ch --> Ag[Agate]
-    Ch --> Ja[Jasper]
-    B --> Fsp[Feldspar]
-    B --> Epi[Epidote]
-    B --> Gar[Garnet]
+  B --> Agate
+  B --> Jasper
+  B --> Quartz
+  B --> Unakite
+  B --> Garnet
 
-    %% Rock families
-    C --> Ig[Igneous]
-    C --> Sed[Sedimentary]
-    C --> Met[Metamorphic]
+  C --> Igneous
+  C --> Sedimentary
+  C --> Metamorphic
 
-    %% Igneous examples
-    Ig --> Gran[Granite]
-    Ig --> Bas[Basalt]
+  Igneous --> Granite
+  Igneous --> Basalt
 
-    %% Sedimentary examples
-    Sed --> Sst[Sandstone]
-    Sed --> Lst[Limestone/Dolostone]
-    Sed --> Sh[Shale]
-    Sed --> Cong[Conglomerate / Puddingstone]
+  Sedimentary --> Sandstone
+  Sedimentary --> Limestone
+  Sedimentary --> Shale
+  Sedimentary --> Conglomerate
 
-    %% Metamorphic examples
-    Met --> Gn[Gneiss]
-    Met --> Sch[Schist]
-    Met --> Qtz[Quartzite]
-    Met --> Mar[Marble]
-    Met --> Una[Unakite]
+  Metamorphic --> Gneiss
+  Metamorphic --> Schist
+  Metamorphic --> Quartzite
+  Metamorphic --> Marble
 
-    %% Metamorphic pathways
-    Gran -. metamorphism .-> Gn
-    Sst -. metamorphism .-> Qtz
-    Lst -. metamorphism .-> Mar
-    Sh  -. metamorphism .-> Sch
+  Granite -.-> Gneiss
+  Sandstone -.-> Quartzite
+  Limestone -.-> Marble
+  Shale -.-> Schist
 
-    %% Mineral → rock associations
-    Qz --> Gran
-    Qz --> Qtz
-    Fsp --> Gran
-    Fsp --> Gn
-    Epi --> Una
-    Gar --> Gn
-
-    %% Stones that commonly reach the shoreline
-    Ag --> G
-    Ja --> G
-    Qz --> G
-    Una --> G
-    Gn --> G
-    Cong --> G
+  D --> Beaches
+  Agate --> D
+  Jasper --> D
+  Quartz --> D
+  Unakite --> D
+  Gneiss --> D
+  Garnet --> D
+  Conglomerate --> D
 
 ```
 
