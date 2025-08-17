@@ -10,75 +10,45 @@ tags:
 The shores of Lake Ontario, shaped by glaciers and erosion, offer a treasure trove of collectible stones. From colourful [[jasper]] to translucent [[agate|agates]], many of these beach-worn pebbles are perfect candidates for tumbling and polishing. This guide highlights what to look for, where to go, and how to get started.
 
 ---
+## 🪨 Rock Categories in Context
 
-## 🌊 Collectible Stones for Tumbling
-
-### **[[Agate]]**
-
-- **Description:** Banded chalcedony (microcrystalline [[Notes/Rockhounding/quartz|quartz]]), translucent with curved banding in red, orange, grey, or white.
-    
-- **Why tumble it:** Hard (Mohs 7), polishes to a brilliant shine, revealing striking banding.
-
-### **[[Jasper]]**
-
-- **Description:** Opaque [[Notes/Rockhounding/quartz|quartz]] with earthy reds, browns, yellows, and greens; sometimes brecciated.
-    
-- **Why tumble it:** Takes a glossy polish; colours and patterns intensify.
-
-### **[[Unakite]]**
-
-- **Description:** A green-and-pink metamorphic rock made of [[feldspar]], [[epidote]], and [[Notes/Rockhounding/quartz|quartz]].
-    
-- **Why tumble it:** Creates a unique, mottled pattern when polished.
-
-### **[[Notes/Rockhounding/quartz|Quartz]] (Milky, Smoky, Chalcedony)**
-
-- **Description:** Commonly found as translucent to opaque white, grey, or brown stones.
-    
-- **Why tumble it:** Very durable; glass-like finish after polishing.
-
-### **[[Conglomerate]] (Puddingstone)**
-
-- **Description:** Pebble-rich sedimentary rock with embedded [[jasper]] or [[Notes/Rockhounding/quartz|quartz]] clasts.
-    
-- **Why tumble it:** Produces a colourful, speckled stone; each piece is one-of-a-kind.
-
-### **Garnet-Bearing [[Gneiss]]**
-
-- **Description:** Banded metamorphic rock containing small garnet crystals.
-    
-- **Why tumble it:** Garnets stand out as red flecks once polished.
-
-> [!WARNING]
-> **Not recommended for tumbling:** Limestone, shale, and sandstone — these are too soft, porous, or crumbly to withstand tumbling.
+- **[[Igneous]] Rocks** → Formed from cooled magma/lava. Example: basalt, granite. Connection: [[agate|Agates]].  
+- **[[Sedimentary]] Rocks** → Formed from compressed sediments. Example: limestone, sandstone. Connection: [[Jasper]].  
+- **[[Metamorphic]] Rocks** → Formed by heat and pressure. Example: [[gneiss]], schist. Connection: [[Unakite]].  
 
 ---
+## 🌊 Why These Rocks Wash Up
 
-## 🧭 Recommended Locations (GTA & Durham Region)
-
-- **Scarborough Bluffs / Bluffer’s Park (Toronto)**  
-    Erosion of cliffs delivers a mix of sandstone, [[jasper]], [[Notes/Rockhounding/quartz|quartz]], and fossils.
-    
-- **Tommy Thompson Park & Cherry Beach (Toronto)**  
-    Pebble-rich waterfront, known for diverse metamorphic and sedimentary stones.
-    
-- **Ashbridge’s Bay & The Beaches (Toronto)**  
-    Rounded glacial pebbles, including [[Notes/Rockhounding/quartz|quartz]], [[jasper]], and [[agate]].
-    
-- **Rouge River & Don Valley Outflows (Toronto)**  
-    Creek mouths deliver glacially transported stones into the lake.
-    
-- **Lynde Shores Conservation Area (Whitby)**  
-    Barrier beach with abundant glacial gravels.
-    
-- **Darlington Provincial Park (Bowmanville)**  
-    Terminal moraine landscape with varied tumbling-quality stones.
-    
-- **Pickering / Paradise Beach & Carruthers Creek Mouth (Ajax)**  
-    Sandy-gravel beaches that often reveal [[Notes/Rockhounding/quartz|quartz]], [[jasper]], and [[unakite]] after storms.
+1. **Glaciers** carried and deposited erratics from the north.  
+2. **Rivers** transport stones from inland.  
+3. **Wave action** smooths and rounds pebbles.  
+4. **Cliff erosion** (e.g., Scarborough Bluffs) adds new material.  
 
 ---
+## 🧭 Recommended Locations in GTA & Durham
 
+> [!tip] **Best Overall – Scarborough Bluffs / Bluffer’s Park (Toronto)**  
+> Erosion supplies fresh sandstone, shale, and occasional [[agate]] or [[jasper]] pebbles. Great mix of [[sedimentary]] and glacial erratics.  
+
+> [!tip] **Tommy Thompson Park & Cherry Beach (Toronto)**  
+> Pebble-rich shoreline, diverse [[metamorphic]] and [[Notes/Rockhounding/Rocks/quartz|quartz]] finds.  
+
+> [!tip] **Ashbridge’s Bay & The Beaches (Toronto)**  
+> Smooth, rounded glacial pebbles — good for [[Notes/Rockhounding/Rocks/quartz|quartz]] and [[jasper]].  
+
+> [!tip] **Rouge River & Don Valley Outflows (Toronto)**  
+> Streams deliver a constant supply of mixed glacial rocks.  
+
+> [!tip] **Lynde Shores Conservation Area (Whitby)**  
+> Gravel barrier beach — excellent for tumbling-size stones.  
+
+> [!tip] **Darlington Provincial Park (Bowmanville)**  
+> Glacial moraine shoreline — [[unakite]], [[jasper]], and [[Notes/Rockhounding/Rocks/quartz|quartz]] show up here.  
+
+> [!tip] **Pickering Beach / Paradise Beach & Carruthers Creek Mouth (Ajax)**  
+> Sandy-pebble beaches — small [[agate|agates]] and [[Notes/Rockhounding/Rocks/quartz|quartz]] often appear after storms.  
+
+---
 ## 🪨 Tips for Collecting
 
 - **Timing matters:** After storms or high winds, waves churn up fresh material.
@@ -95,11 +65,11 @@ The shores of Lake Ontario, shaped by glaciers and erosion, offer a treasure tro
 
 - **[[agate|Agates]]:** Look for translucency and banding (hold to light).
     
-- **[[Jasper]]:** Opaque, solid colors—reds and greens are most common.
+- **[[jasper]]:** Opaque, solid colors—reds and greens are most common.
     
-- **[[Notes/Rockhounding/quartz|Quartz]]:** Glassy appearance, hardness test scratches glass.
+- **[[Notes/Rockhounding/Rocks/quartz|Quartz]]:** Glassy appearance, hardness test scratches glass.
     
-- **[[Unakite]]:** Green-pink mottling ([[feldspar]] + [[epidote]]).
+- **[[unakite]]:** Green-pink mottling ([[feldspar]] + [[epidote]]).
     
 - **Conglomerates:** Pebbles cemented together, often with [[jasper]] chunks.
 
@@ -125,7 +95,7 @@ Bring a small **field guide** or use an app like _Rock Identifier_ for on-the-sp
 
 ## ⚙️ Tips for Tumbling Lake Ontario Stones
 
-1. **Sort by hardness** – Tumble [[Notes/Rockhounding/quartz|quartz]], [[jasper]], and [[agate]] together (Mohs 6.5–7). Softer rocks will grind away too quickly.
+1. **Sort by hardness** – Tumble [[Notes/Rockhounding/Rocks/quartz|quartz]], [[jasper]], and [[agate]] together (Mohs 6.5–7). Softer rocks will grind away too quickly.
     
 2. **Start small** – Many Lake Ontario stones are already rounded; use shorter coarse grind cycles.
     

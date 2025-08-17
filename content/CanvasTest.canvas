@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"bac845669591bd74","x":60,"y":-420,"width":400,"height":400,"type":"file","file":"Notes/Rockhounding/agate.md"},
-		{"id":"4a30bfd1306e76f3","x":-420,"y":-420,"width":400,"height":400,"type":"file","file":"Notes/Rockhounding/Rockhounding 101.md"}
+		{"id":"bac845669591bd74","x":60,"y":-420,"width":400,"height":400,"type":"file","file":"Notes/Rockhounding/Rocks/agate.md"},
+		{"id":"4a30bfd1306e76f3","x":-420,"y":-420,"width":400,"height":400,"type":"file","file":"Notes/Rockhounding/Guides/Rockhounding 101.md"}
 	],
 	"edges":[]
 }
