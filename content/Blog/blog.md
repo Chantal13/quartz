@@ -1,5 +1,8 @@
 ---
-title: This is another web page.
-draft: "true"
+title: Blog
+draft: false
 ---
-Hiii.
+There is exactly one blog post here.
+
+[[2025-08-18-Monday]] - NofAir Canada
+
